@@ -40,6 +40,7 @@ export default function Home() {
             <p>₱ 3,201.34</p>
           </div>
         </section>
+        <button>New Transaction</button>
       </div>
     </main>
   );
